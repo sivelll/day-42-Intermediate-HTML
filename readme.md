@@ -1,6 +1,6 @@
 -GO~
 
-  *[Andersen's Personal Site](https://sivelll.github.io/day-42-Intermediate-HTML/)
+  * [Andersen's Personal Site](https://sivelll.github.io/day-42-Intermediate-HTML/)
 
 -Index.html
 
